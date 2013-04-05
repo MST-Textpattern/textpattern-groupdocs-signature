@@ -17,3 +17,7 @@ With GroupDocs signature plugin for Textpattern you can easily view on [Electron
 * [See source code for GroupDocs signature plugin for Textpattern CMS](https://github.com/groupdocs/textpattern-groupdocs-signature-source)
 
 ###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
+
+###Change Log
+2013-04-05
+1. Updated to use Signature APi 2.0
