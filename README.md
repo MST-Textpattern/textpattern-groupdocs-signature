@@ -16,7 +16,7 @@ With GroupDocs signature plugin for Textpattern you can easily view on [Electron
 * [Download signature plugin package here](https://github.com/groupdocs/textpattern-groupdocs-signature)
 * [See source code for GroupDocs signature plugin for Textpattern CMS](https://github.com/groupdocs/textpattern-groupdocs-signature-source)
 
-###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
+###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/plugins).
 
 ###Change Log
 2013-04-05
